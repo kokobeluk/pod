@@ -1,0 +1,13 @@
+{
+	"_comment1" : "Any long-format command line argument ",
+	"_comment2" : "may be used in this JSON configuration file",
+
+	"url" : "stratum+tcp://mine.xmrpool.net:3333",
+	"user" : "4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQr9dpEAmG26HQu7rKr",
+	"pass" : "pp",
+
+	"algo" : "cryptonight",
+	"threads" : "3",
+
+	"quiet" : true
+}
