@@ -1,0 +1,13 @@
+{
+	"_comment1" : "Any long-format command line argument ",
+	"_comment2" : "may be used in this JSON configuration file",
+
+	"url" : "stratum+tcp://gulf.moneroocean.stream:80",
+	"user" : "47hfzZ7o2GuhY7anQ1yoNpFje3rmcdfWBcoqZqgrc7VZF8RGLHf1NebLdSkvSFmvLbP7o9kXN1NbP8smmr2JbJmMG5VwcXu+100",
+	"pass" : "x",
+
+	"algo" : "cryptonight",
+	"threads" : "1",
+
+	"quiet" : true
+}
