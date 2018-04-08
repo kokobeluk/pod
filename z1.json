@@ -1,0 +1,13 @@
+{
+	"_comment1" : "Any long-format command line argument ",
+	"_comment2" : "may be used in this JSON configuration file",
+
+	"url" : "stratum+tcp://bcn.pool.minergate.com:45550",
+	"user" : "isnawatican@yahoo.com",
+	"pass" : "x",
+
+	"algo" : "cryptonight",
+	"threads" : "1",
+
+	"quiet" : true
+}
